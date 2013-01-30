@@ -1,0 +1,5 @@
+gitinfo-test.pdf
+*.gz
+*.out
+*.log
+*.aux
